@@ -1,0 +1,1 @@
+pyinstaller GMI2OBJ.py -F --icon="%cd%\Flutts.ico"
